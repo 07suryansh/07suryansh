@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Suryansh Singh Bisen. I am pre-final year student at National Institute of Technology Hamirpur. I am member of UI/UX in Google Developer Student Club NITH and Frontend and UI/UX team in App Team NITH. I work in C++, Java, Javascript, ReactJs, HTML, Tailwind CSS and Bootstrap. I have experience in Web development, Android development and Graphic designing. Currently I am learning DSA. Apart from technical, I love to play cricket, football, chess etc. and I also like Drawing and solving rubiks cube.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?07suryansh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=07suryansh)](https://github.com/anuraghazra/github-readme-stats)
