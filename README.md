@@ -23,5 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07suryansh&" alt="07suryansh" /></p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=07suryansh)](https://github.com/anuraghazra/github-readme-stats)
